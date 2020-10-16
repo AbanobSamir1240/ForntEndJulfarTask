@@ -566,11 +566,12 @@ margin: 10px 10px;
     font-size: 15px;
     padding: 15px 0;
     border-bottom: 1px solid #ccc7c7;
+    margin-right: 15px;
 
 }
 .News-div p.first-news-heading-details{
     padding-top: 18px;
-    color: #737373;
+    color: #737373;  margin-right: 15px;
 }
 .News-div .mgazin-first > div{
     margin-bottom: 40px;
@@ -1049,5 +1050,11 @@ border-color:transparent;
     .ytp-large-play-button{
         display: none !important;
         visibility: hidden;
+    
     }
 
+    /* //abanob */
+    .News-div .Events_div1 .col-lg-3{
+        margin: 5px 0;
+    }
+    
