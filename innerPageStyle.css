@@ -1058,3 +1058,11 @@ border-color:transparent;
         margin: 5px 0;
     }
     
+    @media only screen and (max-width: 855px) {
+       .side-div{
+        width: 82px;
+       }
+       .side-div img{
+        margin: 10px 5px;
+       }
+      }
